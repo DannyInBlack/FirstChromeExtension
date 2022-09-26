@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "tempName",
+    "description": "Do something to google.com",
+    "version": "1.0",
+    "icons": {
+        
+    },
+    "content_script": [{
+        
+    }]
+}
